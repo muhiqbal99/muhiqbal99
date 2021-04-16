@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Iqbal Febriansyah
 - 👀 I’m interested in ICT
-- 🌱 I’m currently learning Java, Kotlin, Laravel
+- 🌱 I’m currently learning Java, Kotlin, Laravel, NodeJS
 - 📫 How to reach me muhiqbal1290@gmail.com
 
 <!---
